@@ -1,5 +1,5 @@
 # Online Course Management
-Certainly! Let's outline the requirements and technologies for an "Online Course Management System" using Java 11, Spring framework, ORM for database integration, and following a 3-tier client-server architecture.
+Requirements and technologies for an "Online Course Management System" using Java 11, Spring framework, ORM for database integration, and following a 3-tier client-server architecture.
 
 ### Project Idea: Online Course Management System
 
@@ -66,10 +66,9 @@ Create an Online Course Management System using Java 11, Spring Boot, Hibernate 
 
 ### Expected Outcome:
 
-By the end of the week, you should have a functional Online Course Management System demonstrating:
 - CRUD operations using RESTful APIs.
 - Database persistence using Hibernate.
 - Basic user interface for interacting with the course management system (listing courses, enrolling students, etc.).
 - Integration of Spring Boot components and libraries.
 
-This project will showcase your proficiency in Java development, Spring framework, ORM integration, and database handling, which are essential skills for building scalable and maintainable applications. It can serve as a significant addition to your resume, demonstrating real-world application development experience.
+This project will showcase proficiency in Java development, Spring framework, ORM integration, and database handling, which are essential skills for building scalable and maintainable applications. 
