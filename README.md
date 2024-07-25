@@ -9,7 +9,7 @@ Create an Online Course Management System using Java 11, Spring Boot, Hibernate 
 **Features to Implement:**
 
 1. **Client (Presentation Layer):**
-   - Develop a web interface using Thymeleaf templates or a frontend framework (like Angular or React, if time permits).
+   - Develop a web interface using Thymeleaf templates.
    - Implement functionalities such as:
      - Displaying a list of courses with details (title, instructor, description, etc.).
      - Searching courses by title or instructor.
