@@ -4,7 +4,7 @@ Requirements and technologies for an "Online Course Management System" using Jav
 ### Project Idea: Online Course Management System
 
 **Overview:**
-Create an Online Course Management System using Java 11, Spring Boot, Hibernate (as the ORM tool), and MySQL (or another relational database of your choice). This system will facilitate the management of courses, instructors, students, and enrollment.
+Create an Online Course Management System using Java 11, Spring Boot, Hibernate (as the ORM tool), and MySQL (relational database). This system will facilitate the management of courses, instructors, students, and enrollment.
 
 **Features to Implement:**
 
